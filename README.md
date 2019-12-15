@@ -24,11 +24,11 @@ What is the best minimum nights setting for our hosts to get more reveiws.
 
 I adapted the database from http://insideairbnb.com/get-the-data.html
 
-There are so many variables in this data set. I picked 4 variables below in this project to investigate further.
+There are so many variables in this data set. I picked 5 variables below in this project to investigate further.
 
 1.room_type, 2.price, 3.minimum_nights 4.number_of_reviews, 5.calculated_host_listings_count.
 
-1.There are 3 types of room types. +Entire house, +Private room, +Shared room
+1.There are 4 types of room types. +Entire house, +Hotel rooms, +Private room, +Shared room
 2.Price per night of the listing
 3.Minimum nights stay setting
 4.Total of reviews that host earned
@@ -36,7 +36,7 @@ There are so many variables in this data set. I picked 4 variables below in this
 
 ## Summary of Results
 
-I took 100 randum samples from the whole Tokyo listings (recorded in Sep 2019) and data strongly shows that enteir house is the best category to earn most reviews. Less than 3 nights is the best minimum setting for getting most reviews. Under 30000JPY per night is the best price per night to get the most reviews. And less than 10 listings per host get most reveiws. This means that hosts who has more than 1 listings up to 10 lsitings, the type of listing is entire house, less than 30000 JPY per night
+I took 100 randum samples from the whole Tokyo listings data set (recorded in Sep 2019) and data strongly shows that entire house is the best category to earn most reviews. Less than 3 nights is the best minimum setting for getting most reviews. Under 30000JPY per night is the best price per night to get the most reviews. And less than 10 listings per host get most reveiws. This means that hosts who has more than 1 listings up to 10 lsitings, the type of listing is entire house, less than 30000 JPY per night
 
 
 
@@ -44,13 +44,23 @@ I took 100 randum samples from the whole Tokyo listings (recorded in Sep 2019) a
 
 ![Annotation 2019-12-15 221138 price 4 types](https://user-images.githubusercontent.com/47428283/70870187-0c43ba80-1f88-11ea-9d86-ca332bd20bd8.jpg)
 
+This shows that majority of listings set the price per night under 30000 JPY. 
+
 ![Annotation 2019-12-15 221608 prices individual types](https://user-images.githubusercontent.com/47428283/70870241-a9065800-1f88-11ea-92f8-1efd5f4f0ac2.jpg)
+
+This shows that majority of entire house set the price per night also udner 30000 JPY. 
 
 ![Annotation 2019-12-15 221814 minimum](https://user-images.githubusercontent.com/47428283/70870252-d0f5bb80-1f88-11ea-835c-664d02749045.jpg)
 
+This shows majority of entire house set minimum stay night setting less than 3 nights. 
+
 ![Annotation 2019-12-15 221850reviews](https://user-images.githubusercontent.com/47428283/70870257-e79c1280-1f88-11ea-8f84-cfcdc52802a8.jpg)
 
+This shows more than 60 entire house hosts earned more than 50 reviews.
+
 ![Annotation 2019-12-15 221935number of listings](https://user-images.githubusercontent.com/47428283/70870267-03071d80-1f89-11ea-8bb8-ea8d1751ddb7.jpg)
+
+This shows that more than 50 hosts of the samples has more than 10 listings.
 
 ![Annotation 2019-12-15 222056entire-minimum ](https://user-images.githubusercontent.com/47428283/70870275-32b62580-1f89-11ea-9568-347f27b3b680.jpg)
 
@@ -58,6 +68,8 @@ I took 100 randum samples from the whole Tokyo listings (recorded in Sep 2019) a
 
 ![Annotation 2019-12-15 222223 entire-listings numbers](https://user-images.githubusercontent.com/47428283/70870296-6a24d200-1f89-11ea-82f7-ba64ee952d0f.jpg)
 
+These three plots shows ;
 
+less than 3 nights on minimum stay nights setting and more than 1 but up to 10 listings that hosts published on our platform which set less than 30000JPY per night get most reviews. 
 
 
