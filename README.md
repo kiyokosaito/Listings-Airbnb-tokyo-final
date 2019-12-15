@@ -36,8 +36,27 @@ There are so many variables in this data set. I picked 4 variables below in this
 
 ## Summary of Results
 
+I took 100 randum samples from the whole Tokyo listings (recorded in Sep 2019) and data strongly shows that enteir house is the best category to earn most reviews. Less than 3 nights is the best minimum setting for getting most reviews. Under 30000JPY per night is the best price per night to get the most reviews. And less than 10 listings per host get most reveiws. This means that hosts who has more than 1 listings up to 10 lsitings, the type of listing is entire house, less than 30000 JPY per night
+
+
 
 ## Exploring Existing Data
+
+![Annotation 2019-12-15 221138 price 4 types](https://user-images.githubusercontent.com/47428283/70870187-0c43ba80-1f88-11ea-9d86-ca332bd20bd8.jpg)
+
+![Annotation 2019-12-15 221608 prices individual types](https://user-images.githubusercontent.com/47428283/70870241-a9065800-1f88-11ea-92f8-1efd5f4f0ac2.jpg)
+
+![Annotation 2019-12-15 221814 minimum](https://user-images.githubusercontent.com/47428283/70870252-d0f5bb80-1f88-11ea-835c-664d02749045.jpg)
+
+![Annotation 2019-12-15 221850reviews](https://user-images.githubusercontent.com/47428283/70870257-e79c1280-1f88-11ea-8f84-cfcdc52802a8.jpg)
+
+![Annotation 2019-12-15 221935number of listings](https://user-images.githubusercontent.com/47428283/70870267-03071d80-1f89-11ea-8bb8-ea8d1751ddb7.jpg)
+
+![Annotation 2019-12-15 222056entire-minimum ](https://user-images.githubusercontent.com/47428283/70870275-32b62580-1f89-11ea-9568-347f27b3b680.jpg)
+
+![Annotation 2019-12-15 222133entire reviews](https://user-images.githubusercontent.com/47428283/70870284-50838a80-1f89-11ea-8f35-714421b5ad51.jpg)
+
+![Annotation 2019-12-15 222223 entire-listings numbers](https://user-images.githubusercontent.com/47428283/70870296-6a24d200-1f89-11ea-82f7-ba64ee952d0f.jpg)
 
 
 
