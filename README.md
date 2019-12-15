@@ -22,7 +22,7 @@ What is the best category for our hosts to receive more reviews.
 Is there any relationship between price and receiving reviews.
 What is the best minimum nights setting for our hosts to get more reveiws.
 
-I adapted the database from http://insideairbnb.com/get-the-data.html
+I adapted the database from http://insideairbnb.com/get-the-data.html Ref:[1]
 
 There are so many variables in this data set. I picked 5 variables below in this project to investigate further.
 
@@ -73,3 +73,5 @@ These three plots shows ;
 less than 3 nights on minimum stay nights setting and more than 1 but up to 10 listings that hosts published on our platform which set less than 30000JPY per night get most reviews. 
 
 
+Reference
+[1] Murray, C.,2014,Inside Airbnb,[Online],Available from http://insideairbnb.com/index.html,  [viewed 3rd December 2019].
